@@ -114,5 +114,8 @@
   {
     "title": "git archive",
     "description": "Create an archive of files from a named tree."
-  }
+  },
+  {
+    "title": "git reflog",
+    "description": "This command records when the tips of branches are updated and to manage the information recored in it."
 ]
